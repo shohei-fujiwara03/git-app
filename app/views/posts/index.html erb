@@ -1,4 +1,5 @@
+<header>top page</header>
+
 <button>
   <%= link_to 'ボタン', '#' %>
-  <h1>マスターブランチで作業を進めてしまった。</h1>
 </button>
